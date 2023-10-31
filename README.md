@@ -1,5 +1,5 @@
 # SnakeAI
-SnakeAI using genetic algorithm and Neural Net.  
+SnakeAI battle royale using genetic algorithm and Neural Net.  
 Under 200 lines. 
 
 
